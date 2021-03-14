@@ -4046,7 +4046,6 @@ scholar.google.com.pk
 miniso.co.tz
 intel.eg
 dynafleetonline.com
-microsoft.com
 amazonvideo.cc
 applecare.hamburg
 bestbuy-giftcard.info
