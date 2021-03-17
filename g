@@ -7620,7 +7620,6 @@ bwh8.net
 greatfire.org
 free-sns.com
 api.ai
-githubusercontent.com
 angulardart.org
 adgoogle.net
 bmwworld.net
