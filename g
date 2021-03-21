@@ -264,7 +264,6 @@ hbo.com
 apple-store.net
 theaustralian.com.au
 ms-studiosmedia.com
-windows.net
 compresspdf.new
 amazonvideo.com
 yahoo.co.il
@@ -3148,7 +3147,6 @@ adidas.de
 voabangla.com
 weinvoiceit.com
 ahmia.fi
-windowsphone.com
 paypal-service.org
 miniwindsor.com
 elsevier.io
@@ -6550,19 +6548,10 @@ img-s-msn-com.akamaized.net
 img-prod-cms-rt-microsoft-com.akamaized.net
 itsbetterwhenyouwinit.com
 faebookc.com
-microsofttradein.com
-windowsupdate.com
-windowssearch.com
 nintendostore.com
-windowsphone-int.com
 scdn.co
 ebaycbt.co.kr
-windowsmarketplace.com
-windowscommunity.net
-windows.nl
 appleappstore.net
-windows.com
-windows-int.net
 fpacebook.com
 wbd.ms
 vsallin.net
@@ -6813,7 +6802,6 @@ buyitnow.tv
 bmw.in
 bing.net
 frostbite.com
-windowsazure.com
 ebay-fashion.com
 espadoldettol.com.ar
 gotcosmos.com
@@ -7548,7 +7536,6 @@ beatsbydre-club.com
 cisconetapp.com
 g-tun.com
 fuchsia.dev
-windowsuem.com
 nextmedia.com.tw
 cpan.org
 foxest.com
