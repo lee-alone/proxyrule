@@ -71,16 +71,6 @@ www.aolnews.com
 .tellme.pw
 
 !!---BBC---
-!--.bbc.co.uk/blogs
-!--.bbc.co.uk/chinese
-!--.bbc.co.uk/news/world-asia-china
-!--.bbc.co.uk/tv
-!--.bbc.co.uk/zhongwen
-!--.bbc.com/ukchina
-!--.bbc.com/zhongwen
-!--.bbc.com%2Fzhongwen
-!--news.bbc.co.uk/onthisday*newsid_2496000/2496277
-!--newsforums.bbc.co.uk
 .bbc.com
 .bbc.co.uk
 .bbcchinese.com
