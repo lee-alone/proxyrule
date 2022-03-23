@@ -18,11 +18,7 @@ share.dmhy.org
 !----------------------IDN----------------------
 
 !----------------------battle.net----------------------
-!battle.net
-!blizzard.com
-!starcraft2.com
-!blz-contentstack.com
-!akamaized.net
+
 
 
 !----------------------proxypool----------------
