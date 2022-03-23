@@ -16,12 +16,13 @@ share.dmhy.org
 69.65.19.160
 
 !----------------------IDN----------------------
-akamaized.net
+
 !----------------------battle.net----------------------
-battle.net
-blizzard.com
-starcraft2.com
-blz-contentstack.com
+||battle.net
+||blizzard.com
+||starcraft2.com
+||blz-contentstack.com
+||akamaized.net
 
 
 !----------------------proxypool----------------
