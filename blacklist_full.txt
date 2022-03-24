@@ -299,6 +299,7 @@ cdninstagram.com
 !###https://www.google.com/supported_domains###
 !...GFWList doesn't intend to support typosquatting...
 .golang.org
+proxy.golang.org
 .appspot.com
 blogspot.com
 /^https?:\/\/[^\/]+blogspot\.(.*)/
