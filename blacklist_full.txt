@@ -18,20 +18,23 @@ share.dmhy.org
 !----------------------IDN----------------------
 
 !----------------------battle.net----------------------
-
+.battle.net
+.starcraft2.com
+.akamaized.net
+.blizzard.com
 
 
 !----------------------proxypool----------------
-bihai.cf
-gfwglass.tk
-kingfu.cf
-leefake.xyz
-proxypoolss.fly.dev
-proxy.yugogo.xyz
-remon602.ga
-xhrzg2017.xyz
-zxcyec.top
-zua426.cf
+.bihai.cf
+.gfwglass.tk
+.kingfu.cf
+.leefake.xyz
+.proxypoolss.fly.dev
+.proxy.yugogo.xyz
+.remon602.ga
+.xhrzg2017.xyz
+.zxcyec.top
+.zua426.cf
 
 
 !-----------------DNS Poisoning-----------------
