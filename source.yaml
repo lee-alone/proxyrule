@@ -1,0 +1,49 @@
+- type: subscribe
+  options:
+          url: 	https://fq.lonxin.net/vmess/sub
+- type: subscribe
+  options:
+          url: 	https://fq.lonxin.net/trojan/sub
+
+- type: subscribe
+  options:
+          url: http://clash.3wking.com:12580/vmess/sub
+- type: subscribe
+  options:
+          url: http://clash.3wking.com:12580/trojan/sub
+
+
+- type: subscribe
+  options:
+          url: https://raw.githubusercontent.com/alanbobs999/TopFreeProxies/master/sub/sub_merge_base64.txt
+
+- type: subscribe
+  options:
+          url: https://proxies.bihai.cf/trojan/sub
+
+- type: subscribe
+  options: 
+          url: https://proxies.bihai.cf/vmess/sub
+          
+
+- type: subscribe
+  options:
+          url: 	https://sspool.herokuapp.com/vmess/sub
+- type: subscribe
+  options:
+          url: 	https://sspool.herokuapp.com/trojan/sub
+
+- type: subscribe
+  options:
+          url: 	https://ednovas.design/vmess/sub
+- type: subscribe
+  options:
+          url: 	https://ednovas.design/trojan/sub
+
+
+- type: subscribe
+  options:
+          url: 	https://hk.xhrzg2017.xyz/vmess/sub
+- type: subscribe
+  options:
+          url: 	https://hk.xhrzg2017.xyz/trojan/sub
