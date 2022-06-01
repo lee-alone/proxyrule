@@ -22,7 +22,7 @@
           url: 	https://raw.githubusercontent.com/Jsnzkpg/Jsnzkpg/Jsnzkpg/Jsnzkpg
 - type: subscribe
   options:
-          url: 	https://raw.githubusercontent.com/learnhard-cn/free_proxy_ss/main/clash/clash.provider.yaml
+          url: 	https://raw.githubusercontent.com/ermaozi/get_subscribe/main/subscribe/v2ray.txt
           
 - type: subscribe
   options:
