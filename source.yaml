@@ -19,6 +19,13 @@
 
 - type: subscribe
   options:
+          url: 	https://raw.githubusercontent.com/Jsnzkpg/Jsnzkpg/Jsnzkpg/Jsnzkpg
+- type: subscribe
+  options:
+          url: 	https://raw.githubusercontent.com/learnhard-cn/free_proxy_ss/main/clash/clash.provider.yaml
+          
+- type: subscribe
+  options:
           url: https://proxies.bihai.cf/trojan/sub
 
 - type: subscribe
@@ -33,17 +40,5 @@
   options:
           url: 	https://sspool.herokuapp.com/trojan/sub
 
-- type: subscribe
-  options:
-          url: 	https://ednovas.design/vmess/sub
-- type: subscribe
-  options:
-          url: 	https://ednovas.design/trojan/sub
 
 
-- type: subscribe
-  options:
-          url: 	https://hk.xhrzg2017.xyz/vmess/sub
-- type: subscribe
-  options:
-          url: 	https://hk.xhrzg2017.xyz/trojan/sub
