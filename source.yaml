@@ -11,6 +11,9 @@
 - type: subscribe
   options:
           url: https://raw.fastgit.org/Leon406/SubCrawler/master/sub/share/v2
+- type: subscribe
+  options:
+          url: https://raw.fastgit.org/Leon406/SubCrawler/master/sub/share/tr
 
 
 - type: subscribe
