@@ -10,7 +10,7 @@
           url: https://raw.githubusercontent.com/mianfeifq/share/main/data2022064.txt
 - type: subscribe
   options:
-          url: http://clash.3wking.com:12580/trojan/sub
+          url: https://raw.fastgit.org/Leon406/SubCrawler/master/sub/share/v2
 
 
 - type: subscribe
