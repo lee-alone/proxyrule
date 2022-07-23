@@ -47,9 +47,6 @@
 - type: subscribe
   options:
           url: 	https://sspool.herokuapp.com/trojan/sub
-  - type: subscribe
+- type: subscribe
   options:
           url:  https://sspool.herokuapp.com/sip002/sub
-
-
-
