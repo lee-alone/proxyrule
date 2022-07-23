@@ -4,6 +4,9 @@
 - type: subscribe
   options:
           url: 	https://fq.lonxin.net/trojan/sub
+  - type: subscribe
+  options:
+          url:  https://fq.lonxin.net/sip002/sub
 
 - type: subscribe
   options:
@@ -34,6 +37,9 @@
   options: 
           url: https://proxies.bihai.cf/vmess/sub
           
+- type: subscribe
+  options: 
+          url: https://proxies.bihai.cf/sip002/sub
 
 - type: subscribe
   options:
@@ -41,6 +47,9 @@
 - type: subscribe
   options:
           url: 	https://sspool.herokuapp.com/trojan/sub
+  - type: subscribe
+  options:
+          url:  https://sspool.herokuapp.com/sip002/sub
 
 
 
