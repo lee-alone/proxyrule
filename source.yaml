@@ -7,9 +7,6 @@
 
 - type: subscribe
   options:
-          url: https://raw.githubusercontent.com/mianfeifq/share/main/data2022064.txt
-- type: subscribe
-  options:
           url: https://raw.githubusercontent.com/Leon406/SubCrawler/main/sub/share/all
 
 - type: subscribe
@@ -24,9 +21,7 @@
 - type: subscribe
   options:
           url: 	https://raw.githubusercontent.com/learnhard-cn/free_proxy_ss/main/v2ray/v2raysub
-- type: subscribe
-  options:
-          url: 	https://raw.githubusercontent.com/kxswa/k/k/long
+
 - type: subscribe
   options:
           url: 	https://raw.githubusercontent.com/aiboboxx/v2rayfree/main/v2
