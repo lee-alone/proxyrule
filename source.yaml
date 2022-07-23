@@ -10,11 +10,7 @@
           url: https://raw.githubusercontent.com/mianfeifq/share/main/data2022064.txt
 - type: subscribe
   options:
-          url: https://raw.fastgit.org/Leon406/SubCrawler/master/sub/share/v2
-- type: subscribe
-  options:
-          url: https://raw.fastgit.org/Leon406/SubCrawler/master/sub/share/tr
-
+          url: https://raw.githubusercontent.com/Leon406/SubCrawler/main/sub/share/all
 
 - type: subscribe
   options:
