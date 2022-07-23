@@ -1,17 +1,5 @@
 - type: subscribe
   options:
-          url: 	https://fq.lonxin.net/vmess/sub
-          
-- type: subscribe
-  options:
-          url: 	https://fq.lonxin.net/trojan/sub
-          
-  - type: subscribe
-  options:
-          url:  https://fq.lonxin.net/sip002/sub
-
-- type: subscribe
-  options:
           url: https://raw.githubusercontent.com/Leon406/SubCrawler/main/sub/share/all
 
 - type: subscribe
