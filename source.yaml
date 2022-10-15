@@ -33,10 +33,10 @@
 
 - type: subscribe
   options:
-          url: 	https://sspool.herokuapp.com/vmess/sub
+          url: 	https://hellopool.herokuapp.com/vmess/sub
 - type: subscribe
   options:
-          url: 	https://sspool.herokuapp.com/trojan/sub
+          url: 	https://hellopool.herokuapp.com/trojan/sub
 - type: subscribe
   options:
-          url:  https://sspool.herokuapp.com/sip002/sub
+          url:  https://hellopool.herokuapp.com/sip002/sub
