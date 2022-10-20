@@ -45,10 +45,5 @@
   options:
           url:  https://tt.vg/freev2 
 
-- type: subscribe
-  options:
-          url: https://tt.vg/freeclash
-- type: subscribe
-  options:
-          url: https://raw.githubusercontent.com/anaer/Sub/main/clash.yaml
+
           
