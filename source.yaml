@@ -2,9 +2,9 @@
   options:
           url: https://raw.githubusercontent.com/Leon406/SubCrawler/main/sub/share/all
 
-- type: subscribe
+- type: clash
   options:
-          url: https://raw.githubusercontent.com/alanbobs999/TopFreeProxies/master/sub/sub_merge_base64.txt
+          url: https://raw.githubusercontent.com/alanbobs999/TopFreeProxies/master/sub/sub_merge_clash.yaml
 - type: subscribe
   options:
           url: 	https://raw.githubusercontent.com/Jsnzkpg/Jsnzkpg/Jsnzkpg/Jsnzkpg
