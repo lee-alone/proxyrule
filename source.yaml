@@ -18,18 +18,6 @@
 - type: subscribe
   options:
           url: 	https://raw.githubusercontent.com/aiboboxx/v2rayfree/main/v2
-                    
-- type: subscribe
-  options:
-          url: https://proxies.bihai.cf/trojan/sub
-
-- type: subscribe
-  options: 
-          url: https://proxies.bihai.cf/vmess/sub
-          
-- type: subscribe
-  options: 
-          url: https://proxies.bihai.cf/sip002/sub
 
 - type: subscribe
   options:
