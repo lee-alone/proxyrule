@@ -19,15 +19,6 @@
   options:
           url: 	https://raw.githubusercontent.com/aiboboxx/v2rayfree/main/v2
 
-- type: subscribe
-  options:
-          url: 	https://hellopool.herokuapp.com/vmess/sub
-- type: subscribe
-  options:
-          url: 	https://hellopool.herokuapp.com/trojan/sub
-- type: subscribe
-  options:
-          url:  https://hellopool.herokuapp.com/sip002/sub
           
 - type: subscribe
   options:
