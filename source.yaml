@@ -1,6 +1,14 @@
 - type: subscribe
   options:
           url: https://raw.githubusercontent.com/Leon406/SubCrawler/main/sub/share/v2
+ 
+- type: subscribe
+  options:
+          url: https://raw.githubusercontent.com/Leon406/SubCrawler/main/sub/share/tr
+
+- type: subscribe
+  options:
+          url: https://raw.githubusercontent.com/Leon406/SubCrawler/main/sub/share/ss
 
 - type: clash
   options:
