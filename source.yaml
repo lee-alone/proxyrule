@@ -28,9 +28,9 @@
           url: 	https://raw.githubusercontent.com/aiboboxx/v2rayfree/main/v2
 
           
-- type: subscribe
+- type: clash
   options:
-          url:  https://tt.vg/freev2 
+          url: https://raw.githubusercontent.com/tbbatbb/Proxy/master/dist/clash.config.yaml 
 
 - type: clash 
   options:
