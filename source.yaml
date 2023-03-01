@@ -43,5 +43,10 @@
 - type: clash 
   options:
           url: https://raw.githubusercontent.com/ermaozi/get_subscribe/main/subscribe/clash.yml
+          
+          
+- type: clash 
+  options:
+          url: https://tolink.pro/link/D1KxiCUtebuhi76J?clash=1
 
           
