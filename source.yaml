@@ -23,9 +23,9 @@
 - type: subscribe
   options:
           url: 	https://raw.githubusercontent.com/kxswa/k/k/base64
-#- type: subscribe
-#  options:
-#          url: 	https://raw.githubusercontent.com/learnhard-cn/free_proxy_ss/main/v2ray/v2raysub
+- type: subscribe
+  options:
+          url: 	https://raw.githubusercontent.com/ermaozi01/free_clash_vpn/main/subscribe/v2ray.txt
 
 - type: subscribe
   options:
