@@ -45,8 +45,8 @@
           url: https://freefq.neocities.org/free.txt
           
           
-#- type: clash 
-#  options:
-#          url: https://tolink.pro/link/D1KxiCUtebuhi76J?clash=1
+- type: subscribe 
+  options:
+          url: https://raw.githubusercontent.com/Lewis-1217/FreeNodes/main/bpjzx2
 
           
