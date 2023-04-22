@@ -49,5 +49,8 @@
 - type: subscribe 
   options:
           url: https://raw.githubusercontent.com/Lewis-1217/FreeNodes/main/bpjzx2
-
+          
+- type: subscribe 
+  options:
+          url: https://raw.githubusercontent.com/tbbatbb/Proxy/master/dist/v2ray.config.txt
           
