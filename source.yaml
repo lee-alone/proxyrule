@@ -21,9 +21,9 @@
 - type: subscribe
   options:
           url: 	https://raw.githubusercontent.com/Jsnzkpg/Jsnzkpg/Jsnzkpg/Jsnzkpg
-- type: subscribe
+- type: webfuzz
   options:
-          url: 	https://raw.githubusercontent.com/kxswa/k/k/base64
+          url: 	https://github.com/tolinkshare/freenode
 - type: subscribe
   options:
           url: 	https://raw.githubusercontent.com/ermaozi01/free_clash_vpn/main/subscribe/v2ray.txt
