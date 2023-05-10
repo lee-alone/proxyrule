@@ -46,7 +46,11 @@
   options:
           url: https://raw.githubusercontent.com/Lewis-1217/FreeNodes/main/bpjzx2
           
-- type: subscribe 
+- type: clash 
   options:
           url: https://raw.githubusercontent.com/learnhard-cn/free_proxy_ss/main/clash/clash.provider.yaml
+          
+- type: clash 
+  options:
+          url: https://raw.githubusercontent.com/openRunner/clash-freenode/main/clash.yaml
           
