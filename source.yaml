@@ -45,6 +45,11 @@
 - type: subscribe 
   options:
           url: https://raw.githubusercontent.com/Lewis-1217/FreeNodes/main/bpjzx2
+
+
+- type: subscribe 
+  options:
+          url: https://raw.githubusercontent.com/ZywChannel/free/main/sub
           
 - type: clash 
   options:
@@ -55,6 +60,8 @@
           url: https://raw.githubusercontent.com/openRunner/clash-freenode/main/clash.yaml
 - type: clash 
   options:
-          url: https://raw.githubusercontent.com/tbbatbb/Proxy/master/dist/clash.config.yaml
+          url: https://raw.githubusercontent.com/mfuu/v2ray/master/clash.yaml
+
+
           
           
