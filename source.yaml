@@ -50,6 +50,10 @@
 - type: subscribe 
   options:
           url: https://raw.githubusercontent.com/ZywChannel/free/main/sub
+
+- type: subscribe 
+  options:
+          url: https://raw.githubusercontent.com/yaney01/Yaney01/main/temporary
           
 - type: clash 
   options:
