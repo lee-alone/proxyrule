@@ -54,6 +54,9 @@
 - type: subscribe 
   options:
           url: https://raw.githubusercontent.com/yaney01/Yaney01/main/temporary
+- type: subscribe 
+  options:
+          url: https://wanshanziwo.eu.org/sip002/sub
           
 - type: clash 
   options:
