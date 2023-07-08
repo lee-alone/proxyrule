@@ -57,6 +57,10 @@
 - type: subscribe 
   options:
           url: https://wanshanziwo.eu.org/sip002/sub
+
+- type: subscribe 
+  options:
+          url: https://raw.githubusercontent.com/sun9426/sun9426.github.io/main/subscribe/v2ray.txt
           
 - type: clash 
   options:
