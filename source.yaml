@@ -37,9 +37,9 @@
   options:
           url: https://raw.githubusercontent.com/anaer/Sub/main/clash.yaml
           
-- type: subscribe 
-  options:
-          url: https://freefq.neocities.org/free.txt
+#- type: subscribe 
+#  options:
+#          url: https://freefq.neocities.org/free.txt
           
           
 - type: subscribe 
