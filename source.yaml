@@ -14,16 +14,18 @@
   options:
           url: https://raw.githubusercontent.com/Leon406/SubCrawler/main/sub/share/ss
 
-- type: webfuzzsub
-  options:
-    url: https://raw.githubusercontent.com/RenaLio/Mux2sub/main/sub_list
+#- type: webfuzzsub
+#  options:
+#    url: https://raw.githubusercontent.com/RenaLio/Mux2sub/main/sub_list
     
 - type: subscribe
   options:
           url: 	https://raw.githubusercontent.com/Jsnzkpg/Jsnzkpg/Jsnzkpg/Jsnzkpg
-- type: webfuzz
-  options:
-          url: 	https://github.com/tolinkshare/freenode
+#- type: webfuzz
+#  options:
+#          url: 	https://github.com/tolinkshare/freenode
+#
+
 - type: subscribe
   options:
           url: 	https://raw.githubusercontent.com/ermaozi01/free_clash_vpn/main/subscribe/v2ray.txt
@@ -37,9 +39,9 @@
   options:
           url: https://raw.githubusercontent.com/anaer/Sub/main/clash.yaml
           
-- type: subscribe 
-  options:
-          url: https://freefq.neocities.org/free.txt
+#- type: subscribe 
+#  options:
+#          url: https://freefq.neocities.org/free.txt
           
           
 - type: subscribe 
