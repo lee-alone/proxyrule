@@ -1,9 +1,7 @@
-tls://dns.google
-quic://unfiltered.adguard-dns.com
 tls://101.101.101.101
-tls://public.dns.iij.jp
-tls://odvr.nic.cz
-tls://dot1.applied-privacy.net
-tls://dot.libredns.gr
-tls://getdnsapi.net
-tls://dot.la.ahadns.net
+tls://1.0.0.1
+https://private.canadianshield.cira.ca/dns-query
+https://dns.oszx.co/dns-query
+https://kaitain.restena.lu/dns-query
+quic://unfiltered.adguard-dns.com
+https://dns.digitale-gesellschaft.ch/dns-query
