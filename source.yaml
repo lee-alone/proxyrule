@@ -14,9 +14,9 @@
   options:
           url: https://raw.githubusercontent.com/Leon406/SubCrawler/main/sub/share/ss
 
-#- type: webfuzzsub
-#  options:
-#    url: https://raw.githubusercontent.com/RenaLio/Mux2sub/main/sub_list
+- type: webfuzzsub
+  options:
+    url: https://raw.githubusercontent.com/ALIILAPRO/v2rayNG-Config/main/server.txt
     
 - type: subscribe
   options:
