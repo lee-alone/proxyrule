@@ -21,10 +21,7 @@
 - type: subscribe
   options:
           url: 	https://raw.githubusercontent.com/Jsnzkpg/Jsnzkpg/Jsnzkpg/Jsnzkpg
-#- type: webfuzz
-#  options:
-#          url: 	https://github.com/tolinkshare/freenode
-#
+
 
 - type: subscribe
   options:
@@ -34,10 +31,6 @@
   options:
           url: 	https://raw.githubusercontent.com/aiboboxx/v2rayfree/main/v2
 
-          
-#- type: clash 
-#  options:
-#          url: https://raw.githubusercontent.com/anaer/Sub/main/clash.yaml
           
 - type: subscribe 
  options:
@@ -64,19 +57,4 @@
   options:
           url: https://raw.githubusercontent.com/sun9426/sun9426.github.io/main/subscribe/v2ray.txt
           
-#- type: clash 
-#  options:
-#          url: https://raw.githubusercontent.com/peasoft/NoMoreWalls/master/list.txt
-          
-#- type: clash 
-#  options:
-#          url: https://raw.githubusercontent.com/openRunner/clash-freenode/main/clash.yaml
 
-
-#- type: clash 
-#  options:
-#          url: https://raw.githubusercontent.com/mfuu/v2ray/master/clash.yaml
-
-
-          
-          
