@@ -1,4 +1,13 @@
-geosite:geolocation-!cn
 geosite:google
 geosite:microsoft
 geosite:yahoo
+geosite:ibm
+geosite:oracle
+geosite:github
+geosite:instagram
+geosite:facebook
+geosite:apple
+geosite:aws
+geosite:netflix
+geosite:disney
+geosite:hbo
