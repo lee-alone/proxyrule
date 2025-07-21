@@ -1,5 +1,4 @@
 #域名
-# steam 商店/客服/聊天/网页布局/API/二维码 代理URL
 steamcommunity.com
 www.steamcommunity.com
 store.steampowered.com
@@ -38,5 +37,4 @@ steamcloud-singapore.storage.googleapis.com
 steamcloud-sydney.storage.googleapis.com
 steamcloud-taiwan.storage.googleapis.com
 steamcloud-eu.storage.googleapis.com
-
 geosite:category-games
