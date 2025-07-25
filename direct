@@ -20,6 +20,9 @@ cdn-ali.content.steamchina.com
 epicgames-download1-1251447533.file.myqcloud.com
 masteralone.cloudns.ph
 pytorch.org
+pypi.org
+comfy.org
+pythonhosted.org
 
 #IP段
 geoip:private
